@@ -1,0 +1,9 @@
+{
+    "geode": "3.0.0",
+    "id": "developer.my_visual_enhancer",
+    "version": "1.0.0",
+    "name": "Level Visual Enhancer",
+    "developer": "YourName",
+    "description": "Transforms standard level aesthetics with custom lighting profiles." 
+    }
+}
